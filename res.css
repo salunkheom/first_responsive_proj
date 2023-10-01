@@ -1,0 +1,68 @@
+body {
+    background-color:#212529;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.nav-item {
+    color: #ef0505;
+    text-decoration-color: #ef0505;
+    margin-top: 0%;
+}
+
+
+.img1 img{
+    width:15pc;
+    padding:25px;
+}
+
+.ko {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 25px;
+  
+    font-size: 20px;
+    font-weight: 100;
+    padding-top:px;
+}
+
+.navbar {
+    width: 100%;
+    padding:5px;
+
+}
+
+.mid {
+    width: 100%;
+}
+
+.bigtext {
+    text-decoration: underline;
+    padding: 85px;
+   color: chocolate;
+}
+
+.bigtext h1{
+    font-size: 40px;
+}
+
+#h2 {
+    margin-left: 35px;
+}
+
+#h3 {
+    margin-left: 55px;
+}
+
+/* Midsection css start */
+.boy img {
+
+    width: 350px;
+    height: cm;
+
+}
+.boy{
+    display:flex;
+    justify-content:center;
+}
